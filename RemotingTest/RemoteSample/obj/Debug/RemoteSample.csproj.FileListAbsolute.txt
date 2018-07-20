@@ -1,0 +1,5 @@
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemoteSample\bin\Debug\RemoteSample.dll
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemoteSample\bin\Debug\RemoteSample.pdb
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemoteSample\obj\Debug\RemoteSample.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemoteSample\obj\Debug\RemoteSample.dll
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemoteSample\obj\Debug\RemoteSample.pdb

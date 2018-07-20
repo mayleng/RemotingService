@@ -1,0 +1,9 @@
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemotingServer\bin\RemotingServer.dll.config
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemotingServer\bin\RemotingServer.dll
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemotingServer\bin\RemotingServer.pdb
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemotingServer\bin\RemoteSample.dll
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemotingServer\bin\RemoteSample.pdb
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemotingServer\obj\Debug\RemotingServer.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemotingServer\obj\Debug\RemotingServer.dll
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemotingServer\obj\Debug\RemotingServer.pdb
+C:\Users\bonree\Desktop\webapi\netframework\RemotingTest\RemotingServer\obj\Debug\RemotingServer.csprojResolveAssemblyReference.cache
